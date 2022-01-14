@@ -1,5 +1,5 @@
 ﻿{
-   name "name": "hjbvsg",
+    "name": "hjbvsg",
     "description": "xray websocket proxy",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
